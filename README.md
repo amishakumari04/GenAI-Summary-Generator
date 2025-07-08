@@ -29,9 +29,9 @@ A full-stack AI-powered assistant for summarizing research documents, answering 
 git clone https://github.com/your-username/genai-assistant.git
 cd genai-assistant
 
----
+```
 
-## 🧰 Features
+### 🧰 Features
 
 - 📄 Upload `.pdf` or `.txt` research documents
 - ✨ Auto-summarize content using Azure OpenAI
